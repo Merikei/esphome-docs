@@ -13,7 +13,7 @@
 
 <a href="https://esphome.io/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://esphome.io/images/logo-docs-on-dark.svg">
+    <source media="(prefers-color-scheme: dark)" style="--logo-text-color: #ffffff;" srcset="https://esphome.io/images/logo-docs.svg">
     <img src="https://esphome.io/images/logo-docs.svg" alt="ESPHome Logo">
   </picture>
 </a>
